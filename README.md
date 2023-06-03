@@ -1,4 +1,4 @@
-# Detect Credit Card Fraud using R
+# Detct Credit Card Fraud using R
 
 ###  The purpose of this project:
 - Every year, fraudulent transactions with credit cards result in billions of dollars in losses. The key to minimizing these losses is the development of effective fraud detection algorithms, and increasingly, these algorithms depend on cutting-edge machine learning methods to help fraud investigators. Nevertheless, because of the non-stationary distributions of the data, the extremely unbalanced classification distributions, and the ongoing streams of transactions, designing fraud detection algorithms is especially difficult. Due to confidentiality concerns, publicly available information are also hard to come by, leaving many questions regarding how to approach this problem in the dark.
